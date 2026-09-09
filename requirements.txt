@@ -5,3 +5,5 @@ torchvision
 torchaudio
 requests
 gradio
+transformers
+torch
