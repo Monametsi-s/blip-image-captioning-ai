@@ -5,5 +5,5 @@ torchvision
 torchaudio
 requests
 gradio
-transformers
-torch
+langchain
+bs4
